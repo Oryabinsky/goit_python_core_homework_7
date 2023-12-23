@@ -25,14 +25,9 @@
 
 ## Використання
 
-- Запустіть термінал та перейдіть у головний каталог clean_folder/
-- Інсталюйте пакет за допомогою команди
+- Інсталюйте пакет за допомогою команди у терміналі
 ```bash
-pip install -e .
-```
-або з правами адміністратора:
-```bash
-python setup.py install
+pip install git+https://github.com/oryabinsky/goit_python_core_homework_7
 ```
 
 - Після установки в системі з'являється пакет clean-folder.
