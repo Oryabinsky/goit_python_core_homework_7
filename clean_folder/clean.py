@@ -198,3 +198,6 @@ def main():
         print('Please try again with correct syntax: "clean-folder path/to/dir"')
         # Exit code - incorrect inline arguments
         sys.exit(2)
+
+if __name__ == "__main__":
+    main()
